@@ -7,11 +7,11 @@ fred@github:~$ fastfetch
 OS: Whatever I'm experimenting with this week
 Editor: Depends who I'm trying to annoy
 Language: C, Rust, Assembly, HTML
-Hobby: Reinventing the wheel (better this time)
+Hobby: Reinventing computing
 Status: Compiles on my machine™
 ```
 
-## 👋 Hi.
+👋 Hi.
 
 I'm Fred.
 
@@ -44,7 +44,7 @@ Where's the fun in that?
 
 ## Featured Project
 
-### 🥔 TinyOS
+### TinyOS
 
 A tiny operating system written in NASM Assembly.
 
