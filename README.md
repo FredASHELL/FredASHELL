@@ -3,7 +3,6 @@
 ````markdown
 # FredASHELL
 
-```text
 ┌──────────────────────────────────────────────────────┐
 │ fred@github:~$ whoami                                │
 │                                                      │
