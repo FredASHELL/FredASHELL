@@ -125,16 +125,10 @@ Lua      █████ (learning)
 
 ---
 
-## GitHub stats
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FredASHELL&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FredASHELL)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FredASHELL&layout=compact)
-```
-
----
-
-```text
 Boot sequence:
 
 [ OK ] Tea acquired
