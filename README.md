@@ -129,12 +129,6 @@ Lua      █████ (learning)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=FredASHELL&show_icons=true)
 
-Boot sequence:
-
-[ OK ] Tea acquired
-[ OK ] Editor opened
-[ OK ] Music playing
-[ OK ] Writing code
-```
+#
 
 *"Computers are much more interesting when you know what's happening underneath."*
