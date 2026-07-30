@@ -25,8 +25,7 @@ Usually it's an operating system.
 
 ## Current Crimes Against Computing
 
-* 🥔 **TinyOS** – An operating system that somehow boots.
-* 🌐 **MicroWeb** – A web browser because apparently there weren't enough already.
+* **TinyOS** – An operating system that somehow boots.
 * 🦀 Random Rust projects.
 * 💻 C programs that compile on the third attempt if they're feeling generous.
 
