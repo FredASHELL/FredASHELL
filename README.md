@@ -20,12 +20,19 @@ I like building small projects, learning old technology, and making things simpl
 ## 🛠 Things I enjoy
 
 💾 Operating systems
+#
 ⚙️ Assembly and low-level programming
+#
 🦀 Rust
+#
 🐧 Linux
+#
 🌐 Retro web design (90s / early 2000s style)
+#
 🎵 Music and audio
+#
 🖥 Vintage computers and hardware
+#
 ✨ Small, quirky projects
 
 ---
@@ -121,9 +128,9 @@ Lua      █████ (learning)
 ## GitHub stats
 
 ```md
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FredASHELL&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FredASHELL&layout=compact)
 ```
 
 ---
