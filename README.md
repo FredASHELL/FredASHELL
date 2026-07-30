@@ -1,142 +1,140 @@
-## Hi there 👋
-````markdown
-# FredASHELL
+# Hello, world! 👋
 
-fred@github:~$ fastfetch
+```text
+$ whoami
+fred
 
-OS: Whatever I'm experimenting with this week
-Editor: Depends who I'm trying to annoy
-Language: C, Rust, Assembly, HTML
-Hobby: Reinventing computing
-Status: Compiles on my machine™
+$ uname -a
+TinyOS enthusiast, retro web enjoyer, occasional Rust programmer
+
+$ echo $MOOD
+Making things that probably could have been normal projects, but are now operating systems.
 ```
 
-👋 Hi.
+Hi! I'm **Fred**, a hobbyist programmer from the UK who enjoys exploring how computers work from the very bottom upwards — from boot sectors and Assembly to websites, Linux, and weird little experiments.
 
-I'm Fred.
-
-I have an unhealthy fascination with operating systems, old computers, Linux, and writing software that could've been solved by installing an existing program.
-
-Where's the fun in that?
+I like building small projects, learning old technology, and making things simply because they're interesting.
 
 ---
 
-## Current obsessions
+## 🛠 Things I enjoy
 
-- 🥔 Writing tiny operating systems.
-- 🌐 Building a web browser in C.
-- 🦀 Rust.
-- 🐧 Linux.
-- 💾 Retro software and hardware.
-- 🌍 Hand-writing HTML because apparently it's still 1999.
-
----
-
-## Things I've probably said at least once
-
-> "I'll just add one more feature."
-
-*three hours later...*
-
-> "Why doesn't this boot anymore?"
+💾 Operating systems
+⚙️ Assembly and low-level programming
+🦀 Rust
+🐧 Linux
+🌐 Retro web design (90s / early 2000s style)
+🎵 Music and audio
+🖥 Vintage computers and hardware
+✨ Small, quirky projects
 
 ---
 
-## Featured Project
+## 🚀 Projects
 
 ### TinyOS
 
-A tiny operating system written in NASM Assembly.
+A tiny x86 operating system written in Assembly.
 
-Features include:
+Features:
 
-- Boots from a floppy image.
-- Surprisingly functional.
-- Surprisingly breakable.
-- Surprisingly fun.
-
-🌐 https://fredashell.github.io/tiny-os/
-
----
-
-## Programming Languages
-
-```
-██████████ C
-█████████░ Rust
-████████░░ NASM Assembly
-███████░░░ HTML
-██████░░░░ CSS
-█████░░░░░ JavaScript
-████░░░░░░ Lua (learning)
-```
+* Command line interface
+* Small built-in programs
+* Graphics demos
+* Games
+* Runs in VirtualBox and on real hardware
 
 ---
 
-## My workflow
+### µNano
 
+A very small project with a very small name.
+
+```text
+Tiny project?
+No.
+
+Extremely tiny project?
+Yes.
 ```
-Have an idea
-     │
-     ▼
-"This won't take long."
-     │
-     ▼
-Three thousand lines of code later
-     │
-     ▼
-Find missing semicolon
-     │
-     ▼
-Celebrate like I invented computing
+
+µNano is part of my interest in making lightweight, minimal software and experimenting with low-level programming ideas.
+
+---
+
+## 💻 Languages
+
+```text
+Assembly ████████████
+Rust     ██████████
+C        █████████
+HTML     ████████
+CSS      ███████
+Lua      █████ (learning)
 ```
 
 ---
 
-## Interests
+## 🐧 Favourite tools
 
-- Operating systems
-- Linux
-- Low-level programming
-- Retro computing
-- Vintage websites
-- Raspberry Pi projects
-- Virtual machines
-- Open source
-- Making things purely because they sound interesting
+* Vim
+* GNU Emacs
+* tmux
+* Git
+* iTerm2
+* NASM
 
 ---
 
-## Soundtrack
+## 🎵 Soundtrack while coding
 
-Currently fuelled by:
-
-- Radiohead
-- System of a Down
-- Slipknot
-- KoЯn
-- Björk
-- Portishead
-- Gorillaz
-
-Good code deserves good music.
+* Radiohead
+* System Of A Down
+* Slipknot
+* Björk
+* Portishead
+* Gorillaz
 
 ---
 
-## Random Facts
+## 📚 Currently learning
 
-- I enjoy writing things from scratch when there are perfectly good alternatives.
-- I think old websites have more personality than most modern ones.
-- I consider "it boots" to be a successful milestone.
-- Half my projects begin with "this'll be simple."
+* Operating system development
+* Rust
+* Lua
+* Computer architecture
+* Networking
+* How many things can fit into 512 bytes
+
+---
+
+## Fun facts
+
+* I like retro websites.
+* I think terminals look cool.
+* I enjoy making tiny software.
+* I occasionally wonder whether an operating system is a sensible weekend project.
+* I have a mild tendency to reinvent things for fun.
+
+---
+
+## GitHub stats
+
+```md
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+```
 
 ---
 
 ```text
-fred@github:~$ fortune
+Boot sequence:
 
-"640K ought to be enough for anybody."
-
-Probably not, but let's try anyway.
+[ OK ] Tea acquired
+[ OK ] Editor opened
+[ OK ] Music playing
+[ OK ] Writing code
 ```
-````
+
+*"Computers are much more interesting when you know what's happening underneath."*
