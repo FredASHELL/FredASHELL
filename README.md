@@ -2,7 +2,6 @@
 ````markdown
 # FredASHELL
 
-```text
 fred@github:~$ fastfetch
 
 OS: Whatever I'm experimenting with this week
