@@ -127,7 +127,7 @@ Lua      █████ (learning)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FredASHELL)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FredASHELL&show_icons=true)
 
 Boot sequence:
 
