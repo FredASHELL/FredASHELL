@@ -127,7 +127,6 @@ Lua      █████ (learning)
 
 ## GitHub stats
 
-```md
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FredASHELL&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FredASHELL&layout=compact)
