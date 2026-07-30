@@ -1,114 +1,143 @@
 ## Hi there 👋
-
 ````markdown
 # FredASHELL
 
-┌──────────────────────────────────────────────────────┐
-│ fred@github:~$ whoami                                │
-│                                                      │
-│ Hobby programmer.                                    │
-│ Breaker of virtual machines.                         │
-│ Enjoyer of undefined behaviour.                      │
-│ Professional over-engineer of unnecessary projects.  │
-└──────────────────────────────────────────────────────┘
-````
+```text
+fred@github:~$ fastfetch
 
-## Hello.
+OS: Whatever I'm experimenting with this week
+Editor: Depends who I'm trying to annoy
+Language: C, Rust, Assembly, HTML
+Hobby: Reinventing the wheel (better this time)
+Status: Compiles on my machine™
+```
 
-I write software that absolutely nobody asked for.
+## 👋 Hi.
 
-Sometimes it's useful.
+I'm Fred.
 
-Usually it's an operating system.
+I have an unhealthy fascination with operating systems, old computers, Linux, and writing software that could've been solved by installing an existing program.
 
----
-
-## Current Crimes Against Computing
-
-* **TinyOS** – An operating system that somehow boots.
-* 🦀 Random Rust projects.
-* 💻 C programs that compile on the third attempt if they're feeling generous.
+Where's the fun in that?
 
 ---
 
-## Languages
+## Current obsessions
+
+- 🥔 Writing tiny operating systems.
+- 🌐 Building a web browser in C.
+- 🦀 Rust.
+- 🐧 Linux.
+- 💾 Retro software and hardware.
+- 🌍 Hand-writing HTML because apparently it's still 1999.
+
+---
+
+## Things I've probably said at least once
+
+> "I'll just add one more feature."
+
+*three hours later...*
+
+> "Why doesn't this boot anymore?"
+
+---
+
+## Featured Project
+
+### 🥔 TinyOS
+
+A tiny operating system written in NASM Assembly.
+
+Features include:
+
+- Boots from a floppy image.
+- Surprisingly functional.
+- Surprisingly breakable.
+- Surprisingly fun.
+
+🌐 https://fredashell.github.io/tiny-os/
+
+---
+
+## Programming Languages
 
 ```
 ██████████ C
-████████░░ Rust
-███████░░░ NASM Assembly
-██████░░░░ HTML/CSS
+█████████░ Rust
+████████░░ NASM Assembly
+███████░░░ HTML
+██████░░░░ CSS
 █████░░░░░ JavaScript
-███░░░░░░░ Lua (learning)
+████░░░░░░ Lua (learning)
 ```
 
 ---
 
-## Philosophy
+## My workflow
 
-> If it's worth doing, it's worth rewriting from scratch.
-
-Why use someone else's software when you can spend six weeks making your own version that's slower, buggier, and somehow twice as satisfying?
-
----
-
-## Things I Enjoy
-
-* Operating systems
-* Low-level programming
-* Linux
-* Retro computing
-* Making software far smaller than it needs to be
-* Spending hours fixing a bug caused by a missing semicolon
-* Calling it "character building"
-
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=FredASHELL\&show_icons=true\&theme=github_dark)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FredASHELL\&layout=compact\&theme=github_dark)
+```
+Have an idea
+     │
+     ▼
+"This won't take long."
+     │
+     ▼
+Three thousand lines of code later
+     │
+     ▼
+Find missing semicolon
+     │
+     ▼
+Celebrate like I invented computing
+```
 
 ---
 
-## Current Soundtrack
+## Interests
 
-* Radiohead
-* System of a Down
-* Björk
-* Portishead
-* Gorillaz
+- Operating systems
+- Linux
+- Low-level programming
+- Retro computing
+- Vintage websites
+- Raspberry Pi projects
+- Virtual machines
+- Open source
+- Making things purely because they sound interesting
+
+---
+
+## Soundtrack
+
+Currently fuelled by:
+
+- Radiohead
+- System of a Down
+- Slipknot
+- KoЯn
+- Björk
+- Portishead
+- Gorillaz
 
 Good code deserves good music.
 
 ---
 
-## TinyOS
+## Random Facts
 
-Website:
-https://fredashell.github.io/tiny-os/
+- I enjoy writing things from scratch when there are perfectly good alternatives.
+- I think old websites have more personality than most modern ones.
+- I consider "it boots" to be a successful milestone.
+- Half my projects begin with "this'll be simple."
 
 ---
 
 ```text
-fred@github:~$ sudo rm -rf /
+fred@github:~$ fortune
 
-Permission denied.
+"640K ought to be enough for anybody."
 
-...probably for the best.
+Probably not, but let's try anyway.
 ```
-<!--
-**FredASHELL/FredASHELL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````
