@@ -106,8 +106,6 @@ CSS      ███████
 ## 📚 Currently learning
 
 * Operating system development
-* Rust
-* Lua
 * Computer architecture
 * Networking
 * How many things can fit into 512 bytes
